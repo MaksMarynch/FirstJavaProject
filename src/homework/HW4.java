@@ -670,23 +670,7 @@ public class HW4 {
         }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+        System.out.println("_____________");
 
     }
 }
